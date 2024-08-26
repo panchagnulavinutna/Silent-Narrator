@@ -1,2 +1,12 @@
-# Silent-Narrator
-Silent Narrator is an AI-powered application that generates audio and text-based stories from images. The app leverages state-of-the-art language models to interpret images, create engaging narratives, and convert them into audio formats, making it accessible and fun for everyone.
+---
+title: Silent Narrator
+emoji: 🐨
+colorFrom: purple
+colorTo: gray
+sdk: streamlit
+sdk_version: 1.34.0
+app_file: app.py
+pinned: false
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference

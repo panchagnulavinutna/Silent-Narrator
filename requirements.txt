@@ -1,0 +1,6 @@
+Tensorflow==2.15.0
+transformers
+openai
+huggingface_hub
+pillow
+streamlit
